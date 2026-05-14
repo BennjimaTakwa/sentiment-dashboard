@@ -1,4 +1,4 @@
-# 📊 Retention Intelligence Dashboard
+# Retention Intelligence Dashboard
 
 > Executive-grade Streamlit dashboard for AI-powered customer retention risk scoring and strategic intervention planning.
 
